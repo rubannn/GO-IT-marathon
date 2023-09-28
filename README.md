@@ -1,1 +1,1 @@
-# GO-IT-marathon
+# GO-IT-marathon (python)
