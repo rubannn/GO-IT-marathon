@@ -1,1 +1,3 @@
-# GO-IT-marathon (python)
+## GO-IT-marathon (python)
+
+#Game BanderoGoose
